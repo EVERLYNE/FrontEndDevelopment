@@ -1,0 +1,33 @@
+body{
+	background-color:red;
+
+	}
+	.container{
+	 background-color:yellow;
+	 width:600px;
+	 padding:200px;
+	 margin:0 auto;
+	 min-height:600px;
+	 
+
+	}
+    .container .panel{
+    	background-color: orange;
+    	text-align:center;
+    	margin:0 auto;
+    	float: left;
+    
+    }
+    .container .pannel.one{
+    	background-color: green;
+    	width: 50px;
+    	padding: 20px;
+
+    }
+    .container .pannel.two{
+    	background-color:pink;
+    	width: 50px;
+    	padding: 20px;
+
+
+    }

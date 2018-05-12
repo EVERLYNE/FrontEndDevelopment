@@ -1,0 +1,48 @@
+Body{
+	background-color:pink;
+}
+h1{
+
+	color:red;
+}
+h2{
+	color:green;
+
+
+}
+.contenta{
+	background-color:grey;
+
+	width:1000px;
+	margin:auto;
+	padding:20px;
+
+}
+
+.contentb{
+
+
+	background-color:marron;
+	width:1000px;
+	margin:auto;
+	padding:20px;
+
+}
+.contentc{
+	background-color:yellow;
+	text-align:centre;
+	margin:auto;
+	padding:20px;
+
+}
+
+.contentd{
+	background-color:orange;
+	text-align:centre;
+	margin:auto;
+
+}
+
+
+
+
