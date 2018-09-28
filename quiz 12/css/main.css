@@ -1,0 +1,81 @@
+body {
+    background-color: lightgreen;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+.container{
+	background-color: green;
+	max-width:1000px;
+	height:500px;
+	margin:0 auto;
+	margin-top: 100px;
+	padding: 30px;	
+}
+.cont1{
+	background-color: red;
+	width: 480px;
+	height: 150px;
+	float: right;
+	position:relative;
+	margin-left: -40px;
+
+
+}
+.cont2{
+	background-color: blue;
+	width:480px;
+	height:150px;
+	float:left;
+
+}
+.cont3{
+	background-color:purple;
+	width:200px;
+	height:200px;
+	padding:20px;
+	position:relative;
+	bottom:-200px;
+
+
+
+}
+.cont4{
+	background-color:black;
+	width:200px;
+	height:200px;
+	padding:20px;
+	position:relative;
+	margin-left: 250px;
+	bottom:40px;
+
+
+
+
+}
+.cont5{
+	background-color:yellow;
+	width:200px;
+	height:200px;
+	padding:20px;
+	position:relative;
+	margin-left: 500px;
+	bottom:280px;
+
+}
+.cont6{
+	background-color:grey;
+	width:200px;
+	height:200px;
+	padding:20px;
+	position:relative;
+	margin-left: 750px;
+	bottom:520px;
+
+}
+
+
+	
